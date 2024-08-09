@@ -61,6 +61,12 @@ This project implements a Vehicle Rental Supervision System, allowing customers 
 - Java Swing for GUI
 - JDBC for database connectivity
 
+## Output
+![WhatsApp Image 2024-08-09 at 19 35 16_93e77647](https://github.com/user-attachments/assets/170dd61f-493c-430f-aa98-9d9c127c7e06)
+
+![WhatsApp Image 2024-08-09 at 19 35 42_231fe90e](https://github.com/user-attachments/assets/0e661252-ed31-4c77-88a8-f202ecad8ea5)
+
+
 ## Future Improvements
 - Implement user authentication
 - Add more vehicle types
