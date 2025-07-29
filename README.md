@@ -1,5 +1,5 @@
 # Vehicle Rental Supervision System
-
+ 
 ## Project Overview
 This project implements a Vehicle Rental Supervision System, allowing customers to book vehicles for specified date ranges. The system manages vehicle inventory, customer bookings, and provides a graphical user interface for interacting with the rental service.
 
